@@ -4,7 +4,7 @@
 ## This project demonstrates an end-to-end Business Intelligence solution for analyzing banking transaction data using AI-assisted tools. The objective is to clean, transform, analyze, and visualize transaction data to generate meaningful insights for decision-making in the banking sector.
 
 The project integrates SQL, AI tools (Perplexity), and Power BI to automate data preparation, KPI generation, and interactive dashboard creation.
-
+https://github.com/samikshakatkar42-cloud/Banking-Transaction-using-Ai-tools/blob/main/README.md#banking-transaction-using-ai-tools
 🎯 Project Objectives
 
 Clean and standardize transaction data using SQL & AI assistance
